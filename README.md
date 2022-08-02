@@ -1,5 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=3500&color=288BFF&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+I+am++AHAMED+NUSRI)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&duration=2500&color=56C5FF&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Undergraduate+Software+Engineer+at+The+Open+University+of+Sri+Lanka.)](https://git.io/typing-svg)
 <!--
 **Nusri7/Nusri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
