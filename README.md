@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahamed_nusri7" target="blank"><img src="https://img.shields.io/twitter/follow/ahamed_nusri7?logo=twitter&style=for-the-badge" alt="ahamed_nusri7" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot, React, MongoDB**
+-  I’m currently learning **SpringBoot, React, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
