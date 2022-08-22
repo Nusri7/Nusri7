@@ -11,11 +11,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusri7&label=Profile%20views&color=0e75b6&style=flat" alt="nusri7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusri7" alt="nusri7" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ahamed_nusri7" target="blank"><img src="https://img.shields.io/twitter/follow/ahamed_nusri7?logo=twitter&style=for-the-badge" alt="ahamed_nusri7" /></a> </p>
-
--  I’m currently learning **SpringBoot, React, MongoDB**
+<ul>
+<li>🌱  I’m currently learning **SpringBoot, React, MongoDB** </li>
+<li>👯 I’m looking to collaborate with other Developers.</li>
+<li>💬 Ask me about anything, I am happy to help</li>
+<li>⚡ Fun fact: I love connecting with different people</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +39,7 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusri7&show_icons=true&locale=en" alt="nusri7" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusri7&" alt="nusri7" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusri7" alt="nusri7" /></a> </p>
 
 
 <!--
@@ -45,7 +49,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate with other Developers.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
