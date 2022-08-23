@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">My personal portfolio:</h3>
-<a href= "http://ahamednusri.epizy.com/ target="_blank"> www.ahamednusri.com </a>
+<a href= "http://ahamednusri.epizy.com/" target="_blank"> www.ahamednusri.com </a>
 
 <h3 align="left"><b><i>Languages :</i></b></h3>
 
