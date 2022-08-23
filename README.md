@@ -29,6 +29,9 @@
 <a href="https://www.hackerrank.com/nusri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nusri" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">My personal portfolio:</h3>
+<a href= "http://ahamednusri.epizy.com/ target="_blank"> www.ahamednusri.com </a>
+
 <h3 align="left"><b><i>Languages :</i></b></h3>
 
  <p align="left"><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
