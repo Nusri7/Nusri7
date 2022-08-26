@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Undergraduate+Software+Engineer+at+The+Open+University+of+Sri+Lanka.)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/91601996/186951180-cd4b955d-4757-44f4-a002-fb4ddfd0d235.gif">
+
 <h3 align="center">A passionate Web developer and Java fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusri7&label=Profile%20views&color=0e75b6&style=flat" alt="nusri7" /> </p>
