@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Undergraduate+Software+Engineer+at+The+Open+University+of+Sri+Lanka.)](https://git.io/typing-svg)
 
-
+<img src ="![ezgif com-gif-maker](https://user-images.githubusercontent.com/91601996/186948831-5b050d8a-6aa6-4baa-9fb9-adfe4b40e68c.gif)" width="1200" height="200">
 
 
 
