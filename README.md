@@ -56,15 +56,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nusri7&show_icons=true&theme=darcula" alt="Ahamed Nusri | Stats" />
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nusri7&theme=prussian" /></p>
 
- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusri7" alt="nusri7" /></a> </p>
  
  <p><img align="center" src="https://user-images.githubusercontent.com/91601996/189034937-63e68f96-5f71-49e2-be98-0aab1e15af41.gif"></p>
-
 
 <!--
 **Nusri7/Nusri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
