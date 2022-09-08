@@ -54,11 +54,13 @@
 
 <p><a href="https://github.com/Nusri7/github-readme-stats"><img alt="Ahamed Nusri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusri7&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nusri7&show_icons=true&theme=gotham" alt="Ahamed Nusri | Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nusri7&show_icons=true&theme=darcula" alt="Ahamed Nusri | Stats" />
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusri7&show_icons=true&locale=en" alt="nusri7" /></p> -->
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nusri7&theme=prussian" /></p>
+
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusri7" alt="nusri7" /></a> </p>
  
  <p><img align="center" src="https://user-images.githubusercontent.com/91601996/189034937-63e68f96-5f71-49e2-be98-0aab1e15af41.gif"></p>
