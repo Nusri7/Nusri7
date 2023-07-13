@@ -26,8 +26,7 @@
 <a href="https://www.hackerrank.com/nusri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nusri" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My personal portfolio:</h3>
-<h4><a href= "http://ahamednusri.epizy.com/" target="_blank"> www.ahamednusri.com </a></h4>
+
 
 <h3 align="left"><b><i>Languages :</i></b></h3>
 
