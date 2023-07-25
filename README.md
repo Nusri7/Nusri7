@@ -5,13 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Undergraduate+Software+Engineer+at+The+Open+University+of+Sri+Lanka.)](https://git.io/typing-svg)
 
 
-<h3 align="center">A passionate Web developer and Java fullstack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Data scientist from Sri Lanka</h3>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusri7&label=Profile%20views&color=0e75b6&style=flat" alt="nusri7" /> </p> 
 <p align="left"> <a href="https://twitter.com/ahamed_nusri7" target="blank"><img src="https://img.shields.io/twitter/follow/ahamed_nusri7?logo=twitter&style=for-the-badge" alt="ahamed_nusri7" /></a> </p>
  <p><img align="right" height="200" src="https://user-images.githubusercontent.com/91601996/189019874-9fbabd4f-2f61-4956-bec0-895c70fe50b5.gif"/></p> <br> <br>
 <ul>
-<li>🌱  I’m currently learning SpringBoot, React, MongoDB </li>
+<li>🌱  I’m currently learning Machine Learning, Deep Learning </li>
 <li>👯 I’m looking to collaborate with other Developers.</li>
 <li>💬 Ask me about anything, I am happy to help</li>
 <li>⚡ Fun fact: I love connecting with different people</li>
