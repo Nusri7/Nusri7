@@ -10,12 +10,25 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusri7&label=Profile%20views&color=0e75b6&style=flat" alt="nusri7" /> </p> 
 <p align="left"> <a href="https://twitter.com/ahamed_nusri7" target="blank"><img src="https://img.shields.io/twitter/follow/ahamed_nusri7?logo=twitter&style=for-the-badge" alt="ahamed_nusri7" /></a> </p>
  <p><img align="right" height="200" src="https://user-images.githubusercontent.com/91601996/189019874-9fbabd4f-2f61-4956-bec0-895c70fe50b5.gif"/></p> <br> <br>
-<ul>
-<li>🌱  I’m currently learning Machine Learning, Deep Learning </li>
-<li>👯 I’m looking to collaborate with other Developers.</li>
-<li>💬 Ask me about anything, I am happy to help</li>
-<li>⚡ Fun fact: I love connecting with different people</li>
-</ul>
+
+ <div align=left>
+
+> ### <sup> ABOUT ME </sup>
+
+:man_student: &nbsp; ***Undergraduate in the Department of Electrical and Computer Engineering, The Open University of Sri Lanka.***
+
+:briefcase: &nbsp; ***Inetrn Machine Learning Engineer @ SilverlineIT<br />*** <br/>
+:computer: &nbsp;Have hands-on experience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP/NLU, Data Science.<br> <br>
+
+  - Deep Learning: Proficient in building and fine-tuning neural network models.
+  - Machine Learning: Skilled in developing machine learning algorithms.
+  - NLP (Natural Language Processing): Experienced in text analysis and language modeling.
+  - Computer Vision: Knowledgeable in image processing and computer vision techniques.
+  - Large Language Models (LLMs): Highly Experienced in working with state-of-the-art LLMs such as GPT-3, LLaMA, Falcon, and Mistral.
+  - Generative AI: Proficient in generative AI techniques and their applications.
+
+#
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
